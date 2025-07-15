@@ -80,24 +80,7 @@
     "notes": "متابعة الحشو",
     "createdAt": "2024-07-14T15:45:00Z"
   },
-  {
-    "id": "1752534585900",
-    "patientId": "5",
-    "patientName": "Ahmad abd",
-    "date": "2025-07-15",
-    "time": "16:00",
-    "endTime": "17:00",
-    "services": [
-      {
-        "serviceId": "1",
-        "serviceName": "قطع عصب",
-        "price": 150
-      }
-    ],
-    "totalAmount": 150,
-    "status": "scheduled",
-    "notes": ""
-  },
+
   {
     "id": "1752534758918",
     "patientId": "2",
