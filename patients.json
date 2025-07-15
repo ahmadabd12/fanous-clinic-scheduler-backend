@@ -1,0 +1,178 @@
+[
+  {
+    "id": "1",
+    "name": "جورج إلياس",
+    "phone": "+961 70123456",
+    "address": "الأشرفية، بيروت",
+    "createdAt": "2024-01-15T10:30:00Z",
+    "treatmentDetails": [
+      {
+        "procedure": "قطع عصب",
+        "toothCount": 20,
+        "costPerTooth": 10,
+        "totalCost": 200
+      },
+      {
+        "procedure": "تلبيس",
+        "toothCount": 3,
+        "costPerTooth": 100,
+        "totalCost": 300
+      }
+    ],
+    "totalAmount": 500,
+    "paidAmount": 280,
+    "remainingAmount": 100,
+    "treatmentStatus": "لم يبدأ العلاج بعد"
+  },
+  {
+    "id": "2",
+    "name": "ليلى خليل",
+    "phone": "+961 70987654",
+    "address": "الحمرا، بيروت",
+    "treatmentDetails": [
+      {
+        "procedure": "قطع عصب",
+        "toothCount": 20,
+        "costPerTooth": 10,
+        "totalCost": 200
+      },
+      {
+        "procedure": "تلبيس",
+        "toothCount": 3,
+        "costPerTooth": 100,
+        "totalCost": 300
+      }
+    ],
+    "createdAt": "2024-02-20T09:15:00Z",
+    "totalAmount": 200,
+    "paidAmount": 200,
+    "remainingAmount": 0,
+    "treatmentStatus": "معالج"
+  },
+  {
+    "id": "3",
+    "name": "كريم يوسف",
+    "phone": "+961 76543210",
+    "address": "طرابلس، لبنان",
+    "treatmentDetails": [
+      {
+        "procedure": "قطع عصب",
+        "toothCount": 20,
+        "costPerTooth": 10,
+        "totalCost": 200
+      },
+      {
+        "procedure": "تلبيس",
+        "toothCount": 3,
+        "costPerTooth": 100,
+        "totalCost": 300
+      }
+    ],
+    "createdAt": "2024-03-10T16:45:00Z",
+    "totalAmount": 500,
+    "paidAmount": 300,
+    "remainingAmount": 200,
+    "treatmentStatus": "لم يبدأ العلاج بعد"
+  },
+  {
+    "id": "4",
+    "name": "ahmad",
+    "phone": "702322",
+    "address": "",
+    "treatmentDetails": [
+      {
+        "procedure": "زراعة سن",
+        "toothCount": 4,
+        "costPerTooth": 500,
+        "totalCost": 2000
+      }
+    ],
+    "totalAmount": 2000,
+    "paidAmount": 0,
+    "remainingAmount": 2000,
+    "treatmentStatus": "لم يبدأ العلاج بعد",
+    "createdAt": "2025-07-14T16:25:47.898Z"
+  },
+  {
+    "id": "5",
+    "name": "Ahmad abd",
+    "phone": "331212",
+    "address": "",
+    "treatmentDetails": [
+      {
+        "procedure": "زراعة سن",
+        "toothCount": 3,
+        "costPerTooth": 500,
+        "totalCost": 1500
+      },
+      {
+        "procedure": "حشو تجميلي",
+        "toothCount": 1,
+        "costPerTooth": 80,
+        "totalCost": 80
+      }
+    ],
+    "totalAmount": 1580,
+    "paidAmount": 0,
+    "remainingAmount": 1580,
+    "treatmentStatus": "لم يبدأ العلاج بعد",
+    "createdAt": "2025-07-14T16:26:33.873Z"
+  },
+  {
+    "id": "6",
+    "name": "aaa",
+    "phone": "aa",
+    "address": "aa",
+    "treatmentDetails": [
+      {
+        "procedure": "تبييض أسنان",
+        "toothCount": 1,
+        "costPerTooth": 250,
+        "totalCost": 250
+      }
+    ],
+    "totalAmount": 250,
+    "paidAmount": 0,
+    "remainingAmount": 250,
+    "treatmentStatus": "لم يبدأ العلاج بعد",
+    "createdAt": "2025-07-14T16:30:26.850Z"
+  },
+  {
+    "id": "1752533330944",
+    "name": "aaa",
+    "phone": "aaa",
+    "address": "aaa",
+    "treatmentDetails": [
+      {
+        "procedure": "زراعة سن",
+        "toothCount": 1,
+        "costPerTooth": 500,
+        "totalCost": 500
+      }
+    ],
+    "totalAmount": 500,
+    "paidAmount": 0,
+    "remainingAmount": 500,
+    "treatmentStatus": "لم يبدأ العلاج بعد",
+    "createdAt": "2025-07-14T22:48:50.944Z"
+  },
+  {
+    "id": "1752567514240",
+    "name": "ayman",
+    "phone": "70223112",
+    "address": "",
+    "treatmentDetails": [
+      {
+        "procedure": "حشو عادي",
+        "toothCount": 1,
+        "costPerTooth": 50,
+        "totalCost": 50
+      }
+    ],
+    "totalAmount": 50,
+    "paidAmount": 0,
+    "remainingAmount": 50,
+    "treatmentStatus": "لم يبدأ العلاج بعد",
+    "createdAt": "2025-07-15T08:18:34.240Z"
+  }
+]
