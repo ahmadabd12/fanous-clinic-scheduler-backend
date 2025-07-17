@@ -10,15 +10,15 @@
       {
         "serviceId": "1",
         "serviceName": "قطع عصب",
-        "price": 150
+        "price": 20
       },
       {
         "serviceId": "3",
         "serviceName": "حشو عادي",
-        "price": 50
+        "price": 15
       }
     ],
-    "totalAmount": 200,
+    "totalAmount": 35,
     "status": "scheduled",
     "notes": "جلسة أولى لقطع العصب",
     "createdAt": "2025-07-14T09:30:00Z"
@@ -110,10 +110,10 @@
       {
         "serviceId": "8",
         "serviceName": "زراعة سن",
-        "price": 500
+        "price": 300
       }
     ],
-    "totalAmount": 500,
+    "totalAmount": 300,
     "status": "scheduled",
     "notes": ""
   }
