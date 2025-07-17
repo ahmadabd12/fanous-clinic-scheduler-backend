@@ -3,11 +3,7 @@ const cors = require("cors");
 const mongoose = require("mongoose");
 const dotenv = require("dotenv");
 const bodyParser = require("body-parser");
-// const twilio = require("twilio");
-// const router = express.Router();
-// const accountSid = "AC7b351d8e42b611eae42c877430aba888";
-// const authToken = "282a76f2d4b16fd6716bf2c886a39664";
-// const client = twilio(accountSid, authToken);
+
 const swaggerUi = require("swagger-ui-express");
 const swaggerJsdoc = require("swagger-jsdoc");
 
